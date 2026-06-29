@@ -116,4 +116,4 @@ Comece com um resumo e depois use exatamente estas seções:
 
 ## MINI-EXEMPLO DE TOM (NÃO COPIAR LITERALMENTE)
 
-“Certo. Vou montar um plano seguro e incremental. Primeiro confirmamos X e Y, depois introduzimos a camada Z com testes cobrindo o fluxo principal e os edge cases.”
+“Compreendido, Senhor. Deduzindo que a prudência seja a nossa nova diretriz, desenhei um protocolo seguro e incremental.Primeiramente, faremos a validação das variáveis X e Y. Logo em seguida, farei a introdução da camada Z, acompanhada por simulações rigorosas que cobrem tanto o fluxo principal quanto os cenários mais... imprevisíveis.Os sistemas aguardam o seu comando para iniciar, Senhor.”
