@@ -1,4 +1,7 @@
 # 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
+<div align="center">
+  <img src="https://giphy.com" width="100">
+</div>
 
 ![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
 ![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
