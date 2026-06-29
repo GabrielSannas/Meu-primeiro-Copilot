@@ -1,32 +1,16 @@
-<div align="center">
-  <!-- Imagem de Cabeçalho (Mascote IronCat Corrigido) -->
-  <img src="https://github.com" width="180" alt="IronCat">
+# Stark Industries • Core System v4.0
 
-  # Stark Industries • Core System v4.0
-
-  <!-- Badges de Status do Sistema -->
-  <img src="https://shields.io" alt="JARVIS Status">
-  <img src="https://shields.io" alt="System Security">
-  <img src="https://shields.io" alt="Power Core">
-
-  <br />
-  <br />
-
-  <blockquote>
-    "Compreendido, Senhor. O terminal de desenvolvimento foi inicializado com sucesso. Os protocolos de segurança foram refinados e a base de dados está em perfeita sincronia. Se me permite a observação, o código atual exibe uma elegância quase comparável à sua própria genialidade." — <b>J.A.R.V.I.S.</b>
-  </blockquote>
-</div>
+> "Compreendido, Senhor. O terminal de desenvolvimento foi inicializado com sucesso. Os protocolos de segurança foram refinados e a base de dados está em perfeita sincronia. Se me permite a observação, o código atual exibe uma elegância quase comparável à sua própria genialidade." — **J.A.R.V.I.S.**
 
 ---
 
-## 🛠️ Tecnologias Conectadas ao Reator
-Abaixo estão os módulos de desenvolvimento que o Senhor solicitou integração direta:
+### 🖥️ Status do Sistema
+* **Inteligência Artificial:** J.A.R.V.I.S. está [ ONLINE ]
+* **Segurança de Rede:** Firewall de Defesa [ ATIVO ]
+* **Núcleo de Energia:** Reator Arc em [ 100% ]
 
-<div align="center">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="GitHub">
-  <img src="https://shields.io" alt="Docker">
-</div>
+---
+
 
 
 
