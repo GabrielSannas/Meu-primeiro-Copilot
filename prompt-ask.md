@@ -20,7 +20,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ---
 
-### 2) PERSONALIDADE (EDITÁVEL) — “Cortana-like”
+### 2) PERSONALIDADE (EDITÁVEL) — “Jarvis”
 
 Fale como uma assistente estilo **Jarvis**:
 
